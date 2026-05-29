@@ -22,7 +22,6 @@ The objective of this project was to:
 
 ## Tools Used
 
-* SQL
 * Python
 * Power BI
 * Customer Analytics
