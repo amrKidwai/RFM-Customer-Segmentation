@@ -67,10 +67,9 @@ Customers were scored and grouped into different segments based on their RFM sco
 
 ## Repository Contents
 
-* rfm_analysis.sql
-* RFM_Dashboard.pbix
-* customer_data.csv
-* RFM_Analysis.ipynb
+* Project 2_Customer Segmentation (RFM).pbix
+* rfm_output.csv
+* PROJECT 2: CUSTOMER SEGMENTATION (RFM).ipynb
 * dashboard_overview.png
 
 ## Skills Demonstrated
