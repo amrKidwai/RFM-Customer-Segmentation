@@ -4,6 +4,11 @@
 
 This project uses RFM (Recency, Frequency, Monetary) Analysis to segment customers based on purchasing behavior and identify high-value customer groups for targeted retention and marketing strategies.
 
+## Dashboard Preview
+
+![Dashboard](dashboard_overview.png)
+
+
 ## Business Problem
 
 Businesses often struggle to understand which customers contribute the most value and which customers are at risk of churn.
